@@ -3,8 +3,9 @@
 我最近不工作于任何项目中
 
 # 我的自创开源项目:
-ChatRecorder,点击仓库列表查看详细！
-
+[ChatRecorder](https://github.com/DogPixelNetwork/ChatRecorder)
+# Fork：
+[Velocity](https://github.com/DogPixelNetwork/Velocity)
 <!--
 **NetScn/NetScn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
